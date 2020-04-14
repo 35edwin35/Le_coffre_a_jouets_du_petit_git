@@ -1,6 +1,7 @@
-let Age = 12;
+let color = bleu;
 
-if ('Age'<18) {
- console.log("Mineur");
-} else  {
- console.log("Majeur");
+if (color = jaune) {
+  consol.log("La couleur est égale jaune")
+} else if (color = vert) {
+
+}
