@@ -1,3 +1,6 @@
-const a = 0;
-a = 1;
-console.log(a);
+let Age = 12;
+
+if ('Age'<18) {
+ console.log("Mineur");
+} else  {
+ console.log("Majeur");
